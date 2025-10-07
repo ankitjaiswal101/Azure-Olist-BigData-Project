@@ -1,0 +1,30 @@
+[
+ {
+"github_relative_url":"BigDataProjects/refs/heads/main/Project-Brazillian%20Ecommerce/Data/olist_customers_dataset.csv",
+"filename_sink": "olist_customers_dataset.csv"
+ },
+ {
+"github_relative_url":"BigDataProjects/refs/heads/main/Project-Brazillian%20Ecommerce/Data/olist_geolocation_dataset.csv",
+"filename_sink":"olist_geolocation_dataset.csv"
+ },
+ {
+"github_relative_url":"BigDataProjects/refs/heads/main/Project-Brazillian%20Ecommerce/Data/olist_order_items_dataset.csv",
+"filename_sink": "olist_order_items_dataset.csv"
+ },
+ {
+"github_relative_url":"BigDataProjects/refs/heads/main/Project-Brazillian%20Ecommerce/Data/olist_order_reviews_dataset.csv",
+"filename_sink": "olist_order_reviews_dataset.csv"
+ },
+ {
+"github_relative_url":"BigDataProjects/refs/heads/main/Project-Brazillian%20Ecommerce/Data/olist_orders_dataset.csv",
+"filename_sink": "olist_orders_dataset.csv"
+ },
+ {
+"github_relative_url":"BigDataProjects/refs/heads/main/Project-Brazillian%20Ecommerce/Data/olist_products_dataset.csv",
+"filename_sink": "olist_products_dataset.csv"
+ },
+ {
+"github_relative_url":"BigDataProjects/refs/heads/main/Project-Brazillian%20Ecommerce/Data/olist_sellers_dataset.csv",
+"filename_sink": "olist_sellers_dataset.csv"
+ }
+]
